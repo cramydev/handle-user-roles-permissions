@@ -1,6 +1,6 @@
 *----- 🇪🇸 ESPAÑOL -----*
 
-Esto es un ejemplo o forma de como realizar el manejo de validación de permisos según un rol de usuario de forma estática. Al ser estático se hace referencia a que los permisos no pueden modificarse fuera del código, por tanto es algo que antes de implementarlo debe hablar y confirmar al 💯, o al menos intentar hacerlo 😅.
+Esto es un ejemplo o forma de como realizar el manejo de validación de permisos según un rol de usuario de forma estática. Al ser estático se hace referencia a que los permisos no pueden modificarse fuera del código, por tanto es algo que antes de implementarlo se debe hablar y confirmar al 💯, o al menos intentar hacerlo 😅.
 
 Esto está enfocado para aplicarlo en el lado del servidor, principlamente haciendo uso del framework ExpressJS, pero la idea creo que igual puede aplicarse para otros frameworks.
 
@@ -20,7 +20,7 @@ Espero que sea de ayuda 👍😁.
 
 *----- 🇺🇸 ENGLISH -----*
 
-This is an example or a way to handle the validations for user roles permissions in a static way. By been static I mean that this permissions can't change outside the code so, because of this, it is important to talk and confirm the permissions by user role at 💯 before the implementation. Or at least try to do it 😅.
+This is an example or a way to handle the validations for user roles permissions in a static way. By been static I mean that this permissions can't change outside the code so, because of this, it is important to talk and confirm about the permissions by user role at 💯 before the implementation. Or at least try to do it 😅.
 
 This is focused to applying on the server side, mainly using the ExpressJS framework, but I think the idea can work for other frameworks. 
 
